@@ -1,1 +1,1 @@
-Git setup
+Git setup and navigation
